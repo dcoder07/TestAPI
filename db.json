@@ -5,6 +5,7 @@
       "body": "Make a landing page for the event.  Add a spotlight page to the club's website.",
       "priority": "medium",
       "user_email": "dishankpatil360@gmail.com",
+      "due_date": "22/12/2023",
       "id": 1
     },
     {
@@ -12,6 +13,7 @@
       "body": "Start DSA as soon as possible. Start by solving 5 problems per day.",
       "priority": "high",
       "user_email": "dishankjp05@gmail.com",
+      "due_date": "22/12/2023",
       "id": 2
     },
     {
@@ -19,6 +21,7 @@
       "body": "Write a Technical article on Hashnode about Rendering.",
       "priority": "low",
       "user_email": "rockyraven002@gmail.com",
+      "due_date": "22/12/2023",
       "id": 3
     },
     {
@@ -26,6 +29,7 @@
       "body": "Write content for the Case Analysis Template, Brochure, Rules etc for the event.",
       "priority": "medium",
       "user_email": "ashutshsingh2004@gmail.com",
+      "due_date": "22/12/2023",
       "id": 4
     }
   ]
