@@ -6,6 +6,7 @@
       "priority": "medium",
       "user_email": "dishankpatil360@gmail.com",
       "due_date": "22/12/2023",
+      "imgSrc" : "/app/images/jack.jpeg",
       "id": 1
     },
     {
@@ -14,6 +15,7 @@
       "priority": "high",
       "user_email": "dishankjp05@gmail.com",
       "due_date": "22/12/2023",
+      "imgSrc" : "/app/images/jack.jpeg",
       "id": 2
     },
     {
@@ -22,6 +24,7 @@
       "priority": "low",
       "user_email": "rockyraven002@gmail.com",
       "due_date": "22/12/2023",
+      "imgSrc" : "/app/images/lucy.jpeg",
       "id": 3
     },
     {
@@ -30,6 +33,7 @@
       "priority": "medium",
       "user_email": "ashutshsingh2004@gmail.com",
       "due_date": "22/12/2023",
+      "imgSrc" : "/app/images/jian-yang.jpeg",
       "id": 4
     }
   ]
