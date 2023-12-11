@@ -9,24 +9,24 @@
       "id": 1
     },
     {
-      "title": "Data Structure and Algorithm",
-      "body": "Start DSA as soon as possible. Start by solving 5 problems per day.",
+      "title": "Integration Issues",
+      "body": "Difficulty integrating new components with existing systems or third-party APIs.",
       "priority": "high",
       "user_email": "dishankjp05@gmail.com",
       "due_date": "22/12/2023",
       "id": 2
     },
     {
-      "title": "Article Writing",
-      "body": "Write a Technical article on Hashnode about Rendering.",
+      "title": "Dependency Management",
+      "body": " Version conflicts, deprecated libraries, or dependencies with security vulnerabilities.",
       "priority": "low",
       "user_email": "rockyraven002@gmail.com",
       "due_date": "22/12/2023",
       "id": 3
     },
     {
-      "title": "Content Writing",
-      "body": "Write content for the Case Analysis Template, Brochure, Rules etc for the event.",
+      "title": "Network Latency and Reliability",
+      "body": "Unpredictable network behavior, latency, or unreliable connections.",
       "priority": "medium",
       "user_email": "ashutshsingh2004@gmail.com",
       "due_date": "22/12/2023",
