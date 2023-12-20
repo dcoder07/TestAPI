@@ -6,7 +6,7 @@
       "priority": "medium",
       "user_email": "dishankpatil360@gmail.com",
       "due_date": "22/12/2023",
-      "imgSrc" : "/app/images/jack.jpeg",
+      "imgSrc" : "https://images.nightcafe.studio/jobs/6FALlclA3dpCUGJaByxI/6FALlclA3dpCUGJaByxI--1--3vcpj.jpg?tr=w-1600,c-at_max",
       "id": 1
     },
     {
@@ -15,7 +15,7 @@
       "priority": "high",
       "user_email": "dishankjp05@gmail.com",
       "due_date": "22/12/2023",
-      "imgSrc" : "/app/images/jack.jpeg",
+      "imgSrc" : "https://images.nightcafe.studio/jobs/6FALlclA3dpCUGJaByxI/6FALlclA3dpCUGJaByxI--1--3vcpj.jpg?tr=w-1600,c-at_max",
       "id": 2
     },
     {
@@ -24,7 +24,7 @@
       "priority": "low",
       "user_email": "rockyraven002@gmail.com",
       "due_date": "22/12/2023",
-      "imgSrc" : "/app/images/lucy.jpeg",
+      "imgSrc" : "https://img.freepik.com/premium-photo/colorful-portrait-young-woman-with-glamorous-fashion_985323-21680.jpg",
       "id": 3
     },
     {
@@ -33,7 +33,7 @@
       "priority": "medium",
       "user_email": "ashutshsingh2004@gmail.com",
       "due_date": "22/12/2023",
-      "imgSrc" : "/app/images/jian-yang.jpeg",
+      "imgSrc" : "https://play-lh.googleusercontent.com/XVrFfr6JSs81AUFro3-_Yzyu7ZamixHegD2M8jQidormWDe9cBH-O2tCM40A7Zr0zSk=w240-h480-rw",
       "id": 4
     }
   ]
